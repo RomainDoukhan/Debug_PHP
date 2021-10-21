@@ -12,8 +12,8 @@ $characters = [
     "Ezekiel" => [
         "city" => "The Kingdom",
         "weapon" => "Shiva"
-    ]
-    "Romain_Doukhan" => [
+    ],
+    "RomainDoukhan" => [
         "city" => "Paris",
         "weapon" => "Knife"
     ]
